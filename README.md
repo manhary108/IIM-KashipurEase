@@ -6,7 +6,7 @@
     <title>Travel and Hospitality Preferences</title>
     <style>
         body {
-            background-image: url('kashipur-4784193.jpg');
+            background-image: url('rrr.jpg');
             background-size: cover;
             background-position: center;
             font-family: Arial, sans-serif;
