@@ -7,7 +7,7 @@
     <title>Travel and Hospitality Preferences</title>
     <style>
         body {
-            background-image: url('IIM.jpg'); /* Replace with your image URL */
+            background-image: url('IIM.jpg');
             background-size: cover;
             background-position: center;
             font-family: Arial, sans-serif;
@@ -15,7 +15,7 @@
             padding: 20px;
         }
         .container {
-            background-color: rgba(240, 240, 240, 0.9); /* Light grey background color with opacity */
+            background-color: rgba(240, 240, 240, 0.9); 
             padding: 20px;
             border-radius: 10px;
             max-width: 600px;
