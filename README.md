@@ -1,5 +1,4 @@
 # IIM-KashipurEase
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +6,7 @@
     <title>Travel and Hospitality Preferences</title>
     <style>
         body {
-            background-image: url('IIM.jpg');
+            background-image: url('1716177312.jpg');
             background-size: cover;
             background-position: center;
             font-family: Arial, sans-serif;
